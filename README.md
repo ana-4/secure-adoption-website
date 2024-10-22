@@ -1,4 +1,3 @@
-# secure-adoption-website
 # Secure Cat Adoption Website
 
 This is a simple web application that allows users to browse and adopt cats. The site supports three types of users: **guest**, **logged-in users**, and **administrators**. Guests can browse the available cats for adoption, logged-in users can submit adoption requests, and administrators can manage cats and review adoption requests.
