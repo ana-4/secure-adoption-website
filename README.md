@@ -11,7 +11,7 @@ This is a simple web application that allows users to browse and adopt cats. The
   
 - **cat Management**: Administrators can add, update, or delete cats available for adoption.
 - **Adoption Requests**: Logged-in users can submit requests to adopt cats.
-- **Responsive UI**: A simple front-end built using HTML and CSS.
+- **Responsive UI**: A simple front-end built using HTML, CSS and JS
 
 ## Tech Stack
 
