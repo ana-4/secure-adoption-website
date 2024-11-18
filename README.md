@@ -18,6 +18,7 @@ This is a simple web application that allows users to browse and adopt cats. The
 - **Frontend**: HTML, CSS, JS
 - **Backend**: Django
 - **Database**: PostgreSQL
+  
 ![](architecture.png)
 
 ## User Roles and Permissions
@@ -46,7 +47,7 @@ This is a simple web application that allows users to browse and adopt cats. The
 
 Additionally, to ensure the security of the application the following measures have been implemented:
 
-- **Network Segmentation**: dividing the network into 3 subnets: public subnet, application subnet and administrative subnet 
+- **Network Segmentation**: dividing the network into 3 subnets: public subnet, application subnet and administrative subnet and 4 machines: Client Machine, Django Server, Database Server and Administrator Machine.
 - **Secure Password Storage**: database passwords stored in .env file
 - **Django Security Mechanisms**:
     - CSRF Token Management
